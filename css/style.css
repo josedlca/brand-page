@@ -4,7 +4,7 @@
     Fonts: Raleway & Open Sans
     ----------------------------------------
     Colors:
-        blue:         		 #405165
+        green:         		 #399260
         Grey:                #212226
         White Smoke:         #f4f4f4
         White:               #fff
@@ -64,8 +64,8 @@ section {
 #status {
     background-image: url("../img/preloader/preloader.gif");
     background-repeat: no-repeat;
-    width: 70px;
-    height: 70px;
+    width: 100px;
+    height: 100px;
     position: absolute;
     left: 50%;
     top: 50%;
