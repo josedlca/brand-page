@@ -8,7 +8,7 @@
 
 #mobile-nav-open-btn {
     font-size: 30px;
-    color: #f4c613;
+    color: #399260;
     cursor: pointer;
     z-index: 2;
     position: absolute;
@@ -72,7 +72,7 @@
 #mobile-nav a:focus,
 #mobile-nav-close-btn:hover,
 #mobile-nav-close-btn:focus {
-    color: #f4c613;
+    color: #399260;
     background: none;
 }
 
@@ -80,7 +80,7 @@
 /* Mobile nav scroll spy active state */
 
 .white-nav-top #mobile-nav ul.nav>li.active>a {
-    color: #f4c613;
+    color: #399260;
     font-weight: 500;
 }
 
